@@ -71,7 +71,6 @@ int main() {
 				}
 				break;
 			case 27://invalid char
-			case 32:
 				break;
 			default:
 				if (index < MAX_MSG_SIZE - 1) {
